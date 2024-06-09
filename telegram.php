@@ -1,4 +1,4 @@
 <?php
-$telegram_id = "6727236032";
-$id_bot = "7416758812:AAEdUWHw-Xym5YhBB8cF_O016bL7Q2OrnRM";
+$telegram_id = "6474860667";
+$id_bot = "7379932227:AAGBjd4bC3ULEb9ZfQzX_JAWl7izRQO0bnA";
 ?>
