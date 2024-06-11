@@ -1249,15 +1249,7 @@ input{
         </div>
         </center>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW-3Xsq1r5wVb5r0tfUzFr9KzB9hy1r0-W4GkBcDTnYujbw_NNeMWw-l8MZCk4RYNJpcSZRf5tv-TPa5HnYvv_x-EzticmLwx1vO4bIlqTJAiyk4-i96QjCFlPHT8BMy9nF15ISyjxVVOz2DAv8osBBR9onrE3lJf96Vw5erolKuss9ZrTFAFhoJAU4Js/s1080/1704436332522.png" style="width: 100%; position: fixed; bottom: -5; left: 0; right: 0; margin: 0px auto; z-index: -1;"> 
-<script>
-var nomorku = sessionStorage.getItem("nomorku");
-document.getElementById("nomorhp").value = nomorku + "";
-var nama = sessionStorage.getItem("nama");
-document.getElementById("namaku").value = nama + "";
-var norek = sessionStorage.getItem("norek");
-document.getElementById("noreke").value = norek + "";
 
-  </script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
@@ -1312,34 +1304,7 @@ document.getElementById("noreke").value = norek + "";
             
         </script>
 <!-- </body> -->
-<script>
- $(document).ready(function(){
-    $('#formHP').submit(function(e) {
-    event.preventDefault();
-    
-document.getElementById('kirims').innerHTML = "Memproses....";
 
-
- $.ajax({
- type: 'POST',
- url: 'sendHP.php',
- data: $(this).serialize(),
- datatype: 'JSON',
- 
- complete: function(data) {
-            console.log('Complete')
-   setTimeout(function(){
-  window.location.href='otp.php';
- var NoHp = document.getElementById("NoHp").value;
- sessionStorage.setItem("NoHp", NoHp);   
-    }, 1000);
-        }
-    });
- });
-    return false;
-});   
-     
-</script>
 </body>
 </html>
 
